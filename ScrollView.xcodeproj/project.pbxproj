@@ -13,6 +13,8 @@
 		23FA67B527EDD39700335599 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FA67A327EDD39500335599 /* ContentView.swift */; };
 		23FA67B627EDD39700335599 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23FA67A427EDD39700335599 /* Assets.xcassets */; };
 		23FA67B727EDD39700335599 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23FA67A427EDD39700335599 /* Assets.xcassets */; };
+		23FA67C127EDD80300335599 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FA67C027EDD80300335599 /* CardView.swift */; };
+		23FA67C227EDD80300335599 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FA67C027EDD80300335599 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,7 @@
 		23FA67A927EDD39700335599 /* ScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23FA67AF27EDD39700335599 /* ScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23FA67B127EDD39700335599 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		23FA67C027EDD80300335599 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				23FA67A227EDD39500335599 /* ScrollViewApp.swift */,
+				23FA67C027EDD80300335599 /* CardView.swift */,
 				23FA67A327EDD39500335599 /* ContentView.swift */,
 				23FA67A427EDD39700335599 /* Assets.xcassets */,
 			);
@@ -177,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23FA67B427EDD39700335599 /* ContentView.swift in Sources */,
+				23FA67C127EDD80300335599 /* CardView.swift in Sources */,
 				23FA67B227EDD39700335599 /* ScrollViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -186,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23FA67B527EDD39700335599 /* ContentView.swift in Sources */,
+				23FA67C227EDD80300335599 /* CardView.swift in Sources */,
 				23FA67B327EDD39700335599 /* ScrollViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
