@@ -50,6 +50,6 @@ struct CardView: View {
 
 struct CardView_Previews: PreviewProvider {
     static var previews: some View {
-        CardView(image: "swiftui-button", category: "LeFoot", heading: "Coupe du monde", autor: "Nilson")
+        CardView(image: "swiftui-butto", category: "LeFoot", heading: "Coupe du monde", autor: "Nilson")
     }
 }
